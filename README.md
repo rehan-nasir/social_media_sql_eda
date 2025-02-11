@@ -1,2 +1,4 @@
-# social_media_eda
-An EDA of different types of social media used around the world.
+# Social Media Exploratory Data Analysis
+An EDA of social media usage around the world.
+
+Dataset: https://www.kaggle.com/datasets/ashaychoudhary/social-media-and-entertainment-dataset/data
